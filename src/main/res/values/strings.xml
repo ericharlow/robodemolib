@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="text_OK">OK</string>
+    <string name="text_never_again">Never show again</string>
+    <string name="text_ExitNow">EXIT NOW</string>
+</resources>

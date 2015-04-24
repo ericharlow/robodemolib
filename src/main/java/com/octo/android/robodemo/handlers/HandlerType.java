@@ -1,0 +1,8 @@
+package com.octo.android.robodemo.handlers;
+
+/**
+ * Created by ericharlow on 3/17/2015.
+ */
+public enum HandlerType {
+    ANIMATIONHANDLER, TOUCHHANDLER, TOUCHANIMATIONHANDLER, TOUCHHYBRIDHANDLER, DRAWUPDATETOUCHHANDLER, DRAWUPDATETOUCHHYBRIDHANDLER
+};
