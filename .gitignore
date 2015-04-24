@@ -43,5 +43,10 @@ Temporary Items
 .apdisk
 
 # Project
-build
+build/generated
+build/intermediates
+build/tmp
+build/outputs/lint-results_files
+build/outputs/lint-results.html
+build/outputs/lint-results.xml
 bin
